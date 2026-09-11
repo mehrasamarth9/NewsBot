@@ -78,5 +78,5 @@ pip install -r requirements.txt
 python server.py
 ```
 
-## Recruiter demo
+## Demo
 Run in demo mode to show the full LangGraph workflow without exposing credentials. Live mode uses Tavily + OpenAI.
